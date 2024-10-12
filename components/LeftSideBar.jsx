@@ -24,7 +24,7 @@ const LeftSideBar = () => {
  
 
   return (
-    <div className="mt-4 w-[250px]  py-10 h-screen bg-neutral-900  flex justify-start  items-start rounded-2xl  flex-col">
+    <div className="mt-4 w-[250px]  py-10 h-screen bg-neutral-900  flex justify-start  items-start rounded-2xl  flex-col max-lg:hidden">
       
       {/* Left side: Logo */}
       <div>

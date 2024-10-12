@@ -54,7 +54,7 @@ export default function SignIn() {
 
   return (
     <StyledWrapper>
-      <div className="container mt-[20%] ">
+      <div className="container mt-[60%] md:mt-[20%] ">
         <form onSubmit={isSignup ? handleSignup : handleLogin} className={`form ${isSignup ? 'rotate' : ''}`}>
           <div className={`form_front ${isSignup ? 'hide' : ''}`}>
             <div className="form_details">Login</div>
