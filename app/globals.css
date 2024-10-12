@@ -25,3 +25,19 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.n1{
+  
+background: linear-gradient(145deg, #101010, #0e0e0e);
+box-shadow:   #070707,
+              #171717;
+}
+
+.n11212{
+  
+  background: linear-gradient(145deg, #101010, #0e0e0e);
+  box-shadow:   #070707,
+                #171717;
+                background-color: #ff0000;
+  }
